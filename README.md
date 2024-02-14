@@ -6,4 +6,4 @@
 - 😄 Pronouns: she/her
 
 
-[![Ella Smith's github stats](https://github-readme-stats.vercel.app/api?username={{ellasmithssw}}&theme=dark)](https://github.com/{{ellasmithssw}}/github-readme-stats)
+[![Ella Smith's github stats](https://github-readme-stats.vercel.app/api?username=ellasmithssw&theme=dark)](https://github.com/ellasmithssw/github-readme-stats)
